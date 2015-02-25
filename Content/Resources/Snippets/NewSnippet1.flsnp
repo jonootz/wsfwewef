@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="76" MadCap:lastWidth="624">
+    <body>
+        <p>RED -</p>
+        <p>This is a snippet block</p>
+        <ul>
+            <li>testing 123</li>
+            <li>testing 456</li>
+        </ul>
+    </body>
+</html>

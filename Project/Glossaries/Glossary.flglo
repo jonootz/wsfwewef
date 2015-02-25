@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+    <GlossaryEntry>
+        <Terms>
+            <Term>My Term</Term>
+        </Terms>
+        <Definition>My definition</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry>
+        <Terms>
+            <Term>Glossary</Term>
+        </Terms>
+        <Definition>a list of terms in a special subject, field, or area of usage, with accompanying definitions.</Definition>
+    </GlossaryEntry>
+</CatapultGlossary>
